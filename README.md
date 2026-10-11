@@ -35,4 +35,10 @@
 
 ## 许可
 
-本工具仅供湘信职院校园网用户学习与个人使用。
+本仓库以 **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** 协议发布。
+
+- **署名 BY**：必须给出适当署名，提供指向本许可的链接，并标明是否对原始内容做了修改。
+- **非商业性使用 NC**：不得将本材料用于商业目的。
+- **相同方式共享 SA**：基于本材料再创作时，必须以与本协议相同的许可分发。
+
+完整法律文本见 [`LICENSE`](./LICENSE) 或访问 https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans 。
