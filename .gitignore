@@ -1,0 +1,13 @@
+# 可执行文件走 Releases，不进仓库
+*.exe
+*.exe.config
+*.pdb
+*.zip
+*.7z
+
+# 系统/编辑器杂项
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
